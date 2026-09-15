@@ -2,6 +2,8 @@
 
 A calm, local-first daily planner inspired by Microsoft To Do. It runs without an account, keeps tasks on the current device, and supports English and Simplified Chinese. English is the default language.
 
+This project is open source under the [MIT License](LICENSE). Contributions and personal adaptations are welcome.
+
 ## Features
 
 - Customizable greeting name, saved locally from **Settings**
